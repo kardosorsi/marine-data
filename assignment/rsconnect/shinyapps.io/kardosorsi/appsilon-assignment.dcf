@@ -1,0 +1,13 @@
+name: appsilon-assignment
+title: appsilon-assignment
+username:
+account: kardosorsi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4264741
+bundleId: 4711228
+url: https://kardosorsi.shinyapps.io/appsilon-assignment/
+when: 1623589262.11941
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ships.csv|tests
